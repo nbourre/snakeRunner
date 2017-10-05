@@ -8,6 +8,8 @@ import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 import com.badlogic.gdx.scenes.scene2d.Stage;
 import com.badlogic.gdx.utils.viewport.ScreenViewport;
 
+// Vidéo 2 : https://www.youtube.com/watch?v=ELkqiMpvMLA&t=9
+
 public class SnakeRunner extends ApplicationAdapter {
 	Stage stage;
 	Snake snake;
